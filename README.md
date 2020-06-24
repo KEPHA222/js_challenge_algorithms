@@ -1,2 +1,2 @@
 ## Description<br>
-This is are Javascript Challenge which help in Algorithms.
+This are Javascript Challenges which help in Algorithms.
