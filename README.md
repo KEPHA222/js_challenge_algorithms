@@ -1,2 +1,2 @@
 ## Description<br>
-This are Javascript Challenges which help in Algorithms.
+These are Javascript challenges with examples which illustrate Algorithms- (Reversals, FizzBuzz, MaxChar).
